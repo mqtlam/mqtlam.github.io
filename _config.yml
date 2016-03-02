@@ -1,6 +1,6 @@
 # Site settings
 title: Michael Lam 
-header-img: img/home-bg.jpg
+header-img: img/default.jpg
 email: lamm@eecs.oregonstate.edu
 description: "Blog of a graduate student studying computer vision and machine learning."
 baseurl: ""
