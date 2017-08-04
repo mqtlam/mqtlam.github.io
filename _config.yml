@@ -7,6 +7,10 @@ baseurl: ""
 url: "http://michaelqtlam.com"
 github_username:  mqtlam
 
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
